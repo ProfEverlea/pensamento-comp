@@ -1,6 +1,6 @@
 # Grupo dos Professores do curso de Formadores em Ação.
 
-Este grupo de estudo teve início neste mês de junho de 2022, com a finalidade de trocas de informações e novas aprendizagens.Iniciando com o HTML.
+Este grupo de estudo teve início neste mês de junho de 2022, com a finalidade de trocas de informações e novas aprendizagens. Iniciando com o HTML.
 
 
 ### 📋 Pré-requisitos
