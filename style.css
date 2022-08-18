@@ -9,3 +9,4 @@ h1 { text-align: center; color: #440a2f;
 }
 .principal {background-color: aquamarine;
 font-size: x-large;color: blue;}
+li::marker{content: "🔴🟠🟡";}
