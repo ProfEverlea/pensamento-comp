@@ -1,12 +1,59 @@
-body {background-color: rgb(red, green, blue);
+* {
+  box-sizing: border-box;
 }
-h1 {text-align: center; color: aquamarine;}
-p {text-align: justify;color: black;}
-#logo {height: 80%; width: 80%;}
-h1 { text-align: center; color: #440a2f; 
-    border: 8px solid black;
-    padding: 5px; margin: 3px;
+body {
+  background-color: rgb(red, green, blue);
+  margin: 0 auto;
+  width: 600px;
 }
-.principal {background-color: aquamarine;
-font-size: x-large;color: blue;}
-li::marker{content: "🔴";}
+h1 {
+  text-align: center;
+  color: aquamarine;
+}
+p {
+  text-align: justify;
+  color: black;
+}
+#logo {
+  height: 80%;
+  width: 80%;
+}
+h1 {
+  text-align: center;
+  color: #440a2f;
+  border: 8px solid black;
+  padding: 5px;
+  margin: 3px;
+}
+.principal {
+  background-color: aquamarine;
+  font-size: x-large;
+  color: blue;
+}
+li::marker {
+  content: "🔴";
+}
+
+.span-div {
+  border: 5px dashed gainsboro;
+  border-radius: 20px 20px 20px 20px;
+  padding: 10px;
+  vertical-align: 40px;
+  text-align: center;
+  width: 370px;
+  height: 60px;
+  margin: 0 auto;
+  background-color: rgb(20, 163, 165);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img12 {
+  background: 0;
+}
+span {
+  font-size: 20px;
+  color: aliceblue;
+  font-weight: 100;
+}
